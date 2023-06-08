@@ -1,4 +1,4 @@
-# LastFM Dataset Analysis with PySpark
+# 📻 LastFM Dataset Analysis with PySpark
 
 In this project, I have worked with the PySpark module in Python, utilizing the Google Colab environment to apply queries to a dataset related to the Last.fm website. Last.fm is an online music service where users can listen to different songs. 
 
