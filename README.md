@@ -1,2 +1,2 @@
 # pg_db
-Creating and Managing PostgreSQL database
+Designing and Creating a Relational Database Table Using SQLiteStudio
