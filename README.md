@@ -4,11 +4,20 @@ In this project, I have worked with the PySpark module in Python, utilizing the 
 
 The dataset consists of two CSV files, namely "listening.csv" (1GB containing 13,758,905 rows) and "genre.csv" (3 MB containing 138,415 rows).
 
-## Analysis with PySpark and Matplotlib
+## Analysis Steps
 
-Using PySpark, I have performed queries and transformations on the dataset to gain insights and extract meaningful information. PySpark's distributed computing capabilities have allowed me to efficiently process the data, making it suitable for large-scale datasets. By utilizing the Google Colab environment, I have executed the PySpark code and conducted the queries.
+1. **Data Import with PySpark**: The first step of the analysis involved importing the dataset using PySpark. This included loading the "listening.csv" and "genre.csv" files into PySpark DataFrames.
 
-Alongside data analysis, I have also visualized the query results using the Matplotlib library.
+2. **Data Cleaning**: In this step, data cleaning operations were performed to ensure the data quality. This included removing any null values and eliminating unnecessary columns that were not relevant to the analysis.
+
+3. **Dataset Exploration**: This step focused on filtering, grouping, and aggregating the data to gain insights into popular artists, albums, and the best genres. 
+
+4. **User Listening Habits**: For each user in the dataset, this step involved determining their preferred genre and the most frequently played songs. By grouping the data by user and analyzing their listening history, the analysis aimed to understand user preferences and identify the genres and songs that were most popular among the users.
+
+5. **Bar Chart of Genre Preferences**: To visualize the genre preferences of users, this step utilized the Matplotlib library to create a bar chart. By aggregating the data by genre and counting the occurrences, the analysis generated a bar chart that represented the distribution of genre preferences among the users.
+
+These steps provide a high-level overview of the main analysis performed on the LastFM dataset. Each step aimed to gain insights into the dataset, understand user behavior, and visualize the findings using the Matplotlib library.
+
 
 ## Key Learnings
 
