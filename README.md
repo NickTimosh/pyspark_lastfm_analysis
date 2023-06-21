@@ -1,6 +1,6 @@
 # 📻 LastFM Dataset Analysis with PySpark
 
-In this project, I have worked with the PySpark module in Python, utilizing the Google Colab environment to apply queries to a dataset related to the Last.fm website. Last.fm is an online music service where users can listen to different songs. 
+In this project, I`ve worked with the PySpark module in Python, utilizing the Google Colab environment to apply queries to a dataset related to the Last.fm website. Last.fm is an online music service where users can listen to different songs. 
 
 The dataset consists of two CSV files, namely "listening.csv" (1GB containing 13,758,905 rows) and "genre.csv" (3 MB containing 138,415 rows).
 
@@ -21,4 +21,4 @@ These steps provide a high-level overview of the main analysis performed on the 
 
 ## Key Learnings
 
-Through this project, I have gained hands-on experience in working with PySpark, performing data analysis, leveraging distributed computing, and visualizing query results using Matplotlib. This project has allowed me to showcase my skills in data analysis, distributed computing with PySpark, and data visualization, while exploring a real-world dataset within the context of Last.fm.
+Through this project, I`ve gained hands-on experience in working with PySpark, performing data analysis, leveraging distributed computing, and visualizing query results using Matplotlib. This project has allowed me to showcase my skills in data analysis, distributed computing with PySpark, and data visualization, while exploring a real-world dataset within the context of Last.fm.
